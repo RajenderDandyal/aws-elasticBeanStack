@@ -8,3 +8,6 @@ set PORT = 8081 default accepted by nginx reverse proxy server to proxy to port 
 set the health check route for load balancer
 // default to /
 app.get('/', (req, res)=>{res.status(200).send()})
+
+with webSockets
+https://levelup.gitconnected.com/beginners-guide-to-aws-beanstalk-using-node-js-d061bb4b8755
