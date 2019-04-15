@@ -14,3 +14,6 @@ https://levelup.gitconnected.com/beginners-guide-to-aws-beanstalk-using-node-js-
 
 with .ebextensions for env variable files -- create 3 for dev prod test
 https://medium.freecodecamp.org/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977
+
+for more understanding --- but with digital ocean platform
+https://www.youtube.com/watch?v=1OU5ngq-WyM&list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh
