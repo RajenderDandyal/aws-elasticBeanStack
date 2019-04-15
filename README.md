@@ -1,0 +1,2 @@
+# aws-elasticBeanStack
+elasticBeanStack deployment 
